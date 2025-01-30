@@ -8,6 +8,8 @@ A Streamlit web interface for interacting with the DeepSeek R1 1.5b model via Ol
 
 - Python 3.7+
 - Ollama installed and running
+- ```bash
+  pip install ollama
 - Streamlit package
 
 ## Installation
