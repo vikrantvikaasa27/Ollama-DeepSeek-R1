@@ -2,7 +2,8 @@
 
 A Streamlit web interface for interacting with the DeepSeek R1 1.5b model via Ollama.
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Chat+Interface+Screenshot)
+![image](https://github.com/user-attachments/assets/c87dda7d-6547-4210-b153-ed692f909e2f)
+
 
 ## Requirements
 
