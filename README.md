@@ -10,7 +10,11 @@ A Streamlit web interface for interacting with the DeepSeek R1 1.5b model via Ol
 - Ollama installed and running
 - ```bash
   pip install ollama
+  ```
 - Streamlit package
+- ```bash
+  pip install streamlit
+  ```
 
 ## Installation
 
@@ -18,3 +22,10 @@ A Streamlit web interface for interacting with the DeepSeek R1 1.5b model via Ol
 ```bash
 git clone https://github.com/vikrantvikaasa27/Ollama-DeepSeek-R1
 cd Ollama-DeepSeek-R1
+```
+
+## Usage
+
+```bash
+  streamlit run deep.py
+```
