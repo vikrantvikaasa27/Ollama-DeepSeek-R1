@@ -1,7 +1,5 @@
 # Ollama-DeepSeek-R1
 
-# Ollama-DeepSeek Chat Interface
-
 A Streamlit web interface for interacting with the DeepSeek R1 1.5b model via Ollama.
 
 ![App Screenshot](https://via.placeholder.com/800x400.png?text=Chat+Interface+Screenshot)
@@ -16,5 +14,5 @@ A Streamlit web interface for interacting with the DeepSeek R1 1.5b model via Ol
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ollama-deepseek-chat.git
-cd ollama-deepseek-chat
+git clone https://github.com/vikrantvikaasa27/Ollama-DeepSeek-R1
+cd Ollama-DeepSeek-R1
